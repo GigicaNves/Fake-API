@@ -1,5 +1,5 @@
 {
-    "confrontos-sccp-spfc": {
+    "confrontosSccpSpfc": {
       "partidas-disputadas": "360",
       "empates": "115",
       "vitórias-sccp": "133",
@@ -9,7 +9,7 @@
       "gols-spfc": "485",
       "média-de-gols-por-partida": "2.76"
     },
-    "estádios-sccp-spfc": [
+    "estadiosSccpSpfc": [
       { "estadio": "Morumbi", "jogos": "156", "vitorias": "Corinthians 51 x 45 São Paulo (60 empates)", "gols": "Corinthians 174 x 175 São Paulo"},
       { "estadio": "Pacaembu", "jogos": "136", "vitorias": "Corinthians 51 x 50 São Paulo (35 empates)", "gols": "Corinthians 220 x 217 São Paulo"},
       { "estadio": "Fazendinha", "jogos": "23", "vitorias": "Corinthians 14 x 5 São Paulo (4 empates)", "gols": "Corinthians 45 x 27 São Paulo"},
@@ -27,7 +27,7 @@
       { "estadio": "Ilha do Retiro", "jogos": "1", "vitorias": "Corinthians 0 x 1 São Paulo", "gols": "Corinthians 0 x 1 São Paulo"},
       { "estadio": "Rua da Mooca", "jogos": "1", "vitorias": "Corinthians 0 x 1 São Paulo", "gols": "Corinthians 1 x 2 São Paulo"}
       ],
-    "campeonatos-sccp-spfc": [
+    "campeonatosSccpSpfc": [
       { "campeonato": "Paulista", "jogos": "189", "vitórias": "Corinthians 68 x 61 São Paulo (60 empates)", "gols": "Corinthians 248 x 255 São Paulo"},
       { "campeonato": "Brasileirão", "jogos": "77", "vitórias": "Corinthians 27 x 20 São Paulo (30 empates)", "gols": "Corinthians 87 x 78 São Paulo"},
       { "campeonato": "Torneio Rio-São Paulo", "jogos": "23", "vitórias": "Corinthians 8 x 7 São Paulo (8 empates)", "gols": "Corinthians 41 x 31 São Paulo"},
@@ -36,13 +36,13 @@
       { "campeonato": "Recopa", "jogos": "2", "vitórias": "Corinthians 2 x 0 São Paulo", "gols": "Corinthians 4 x 1 São Paulo"},
       { "campeonato": "Amistosos", "jogos": "1", "vitórias": "Corinthians 1 x 0 São Paulo", "gols": "Corinthians 2 x 0 São Paulo"}
       ],
-    "primeiro-confronto": {
+    "primeiroConfronto": {
       "data": "25/05/1930",
       "horario":"16:00",
       "local": "Fazendinha",
       "campeonato": "Paulista"
     },
-    "próximo-confronto": [
+    "próximoConfronto": [
       {"data": "02/06/2024", "horario": "16:00", "local": "Neo Química Arena", "campeonato": "Brasileirão"},
       {"data": "Data Indefinida", "horario": "Horário Indefinido", "local": "Morumbi", "campeonato": "Brasileirão"}
     ]
