@@ -1,13 +1,13 @@
 {
     "confrontosSccpSpfc": {
-      "partidas-disputadas": "360",
+      "partidasDisputadas": "360",
       "empates": "115",
-      "vitórias-sccp": "133",
-      "vitórias-spfc": "112",
-      "gols-no-confronto": "994",
-      "gols-sccp": "509",
-      "gols-spfc": "485",
-      "média-de-gols-por-partida": "2.76"
+      "vitóriasSccp": "133",
+      "vitóriasSpfc": "112",
+      "golsConfronto": "994",
+      "golsSccp": "509",
+      "golsSpfc": "485",
+      "médiaGolsPartida": "2.76"
     },
     "estadiosSccpSpfc": [
       { "estadio": "Morumbi", "jogos": "156", "vitorias": "Corinthians 51 x 45 São Paulo (60 empates)", "gols": "Corinthians 174 x 175 São Paulo"},
