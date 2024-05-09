@@ -42,16 +42,8 @@
       "local": "Fazendinha",
       "campeonato": "Paulista"
     },
-    "próximo-confronto-sccp": {
-      "data": "02/06/2024",
-      "horario": "16:00",
-      "local": "Neo Química Arena",
-      "campeonato": "Brasileirão"
-    },
-    "próximo-confronto-spfc": {
-      "data": "Data Indefinida",
-      "horario": "Horário Indefinido",
-      "local": "Morumbi",
-      "campeonato": "Brasileirão"
-    }
+    "próximo-confronto": [
+      {"data": "02/06/2024", "horario": "16:00", "local": "Neo Química Arena", "campeonato": "Brasileirão"},
+      {"data": "Data Indefinida", "horario": "Horário Indefinido", "local": "Morumbi", "campeonato": "Brasileirão"}
+    ]
   }
