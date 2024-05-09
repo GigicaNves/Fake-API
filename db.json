@@ -1,0 +1,57 @@
+{
+    "confrontos-sccp-spfc": {
+      "partidas-disputadas": "360",
+      "empates": "115",
+      "vitórias-sccp": "133",
+      "vitórias-spfc": "112",
+      "gols-no-confronto": "994",
+      "gols-sccp": "509",
+      "gols-spfc": "485",
+      "média-de-gols-por-partida": "2.76"
+    },
+    "estádios-sccp-spfc": [
+      { "estadio": "Morumbi", "jogos": "156", "vitorias": "Corinthians 51 x 45 São Paulo (60 empates)", "gols": "Corinthians 174 x 175 São Paulo"},
+      { "estadio": "Pacaembu", "jogos": "136", "vitorias": "Corinthians 51 x 50 São Paulo (35 empates)", "gols": "Corinthians 220 x 217 São Paulo"},
+      { "estadio": "Fazendinha", "jogos": "23", "vitorias": "Corinthians 14 x 5 São Paulo (4 empates)", "gols": "Corinthians 45 x 27 São Paulo"},
+      { "estadio": "Neo Química Arena", "jogos": "19", "vitorias": "Corinthians 11 x 1 São Paulo (7 empates)", "gols": "Corinthians 33 x 17 São Paulo"},
+      { "estadio": "Estádio da Floresta", "jogos": "7", "vitorias": "Corinthians 1 x 3 São Paulo (3 empates)", "gols": "Corinthians 11 x 20 São Paulo"},
+      { "estadio": "Palestra Itália", "jogos": "6", "vitorias": "Corinthians 2 x 2 São Paulo (2 empates)", "gols": "Corinthians 8 x 11 São Paulo"},
+      { "estadio": "Arena Barueri", "jogos": "2", "vitorias": "Corinthians 0 x 1 São Paulo (1 empate)", "gols": "Corinthians 2 x 3 São Paulo"},
+      { "estadio": "Teixeirão", "jogos": "2", "vitorias": "Corinthians 0 x 1 São Paulo (1 empate)", "gols": "Corinthians 2 x 4 São Paulo"},
+      { "estadio": "Prudentão", "jogos": "2", "vitorias": "Corinthians 1 x 1 São Paulo", "gols": "Corinthians 4 x 4 São Paulo"},
+      { "estadio": "UFC", "jogos": "1", "vitorias": "Corinthians 0 x 0 São Paulo (1 empate)", "gols": "Corinthians 0 x 0 São Paulo"},
+      { "estadio": "Santa Cruz", "jogos": "1", "vitorias": "Corinthians 1 x 0 São Paulo", "gols": "Corinthians 5 x 0 São Paulo"},
+      { "estadio": "Palmas Travassos", "jogos": "1", "vitorias": "Corinthians 1 x 0 São Paulo", "gols": "Corinthians 1 x 0 São Paulo"},
+      { "estadio": "Serra Dourada", "jogos": "1", "vitorias": "Corinthians 0 x 0 São Paulo (1 empate)", "gols": "Corinthians 2 x 2 São Paulo"},
+      { "estadio": "José Zuquim Nogueira", "jogos": "1", "vitorias": "Corinthians 0 x 1 São Paulo", "gols": "Corinthians 1 x 2 São Paulo"},
+      { "estadio": "Ilha do Retiro", "jogos": "1", "vitorias": "Corinthians 0 x 1 São Paulo", "gols": "Corinthians 0 x 1 São Paulo"},
+      { "estadio": "Rua da Mooca", "jogos": "1", "vitorias": "Corinthians 0 x 1 São Paulo", "gols": "Corinthians 1 x 2 São Paulo"}
+      ],
+    "campeonatos-sccp-spfc": [
+      { "campeonato": "Paulista", "jogos": "189", "vitórias": "Corinthians 68 x 61 São Paulo (60 empates)", "gols": "Corinthians 248 x 255 São Paulo"},
+      { "campeonato": "Brasileirão", "jogos": "77", "vitórias": "Corinthians 27 x 20 São Paulo (30 empates)", "gols": "Corinthians 87 x 78 São Paulo"},
+      { "campeonato": "Torneio Rio-São Paulo", "jogos": "23", "vitórias": "Corinthians 8 x 7 São Paulo (8 empates)", "gols": "Corinthians 41 x 31 São Paulo"},
+      { "campeonato": "Copa do Brasil", "jogos": "4", "vitórias": "Corinthians 2 x 2 São Paulo", "gols": "Corinthians 5 x 5 São Paulo"},
+      { "campeonato": "Libertadores", "jogos": "2", "vitórias": "Corinthians 1 x 1 São Paulo", "gols": "Corinthians 2 x 2 São Paulo"},
+      { "campeonato": "Recopa", "jogos": "2", "vitórias": "Corinthians 2 x 0 São Paulo", "gols": "Corinthians 4 x 1 São Paulo"},
+      { "campeonato": "Amistosos", "jogos": "1", "vitórias": "Corinthians 1 x 0 São Paulo", "gols": "Corinthians 2 x 0 São Paulo"}
+      ],
+    "primeiro-confronto": {
+      "data": "25/05/1930",
+      "horario":"16:00",
+      "local": "Fazendinha",
+      "campeonato": "Paulista"
+    },
+    "próximo-confronto-sccp": {
+      "data": "02/06/2024",
+      "horario": "16:00",
+      "local": "Neo Química Arena",
+      "campeonato": "Brasileirão"
+    },
+    "próximo-confronto-spfc": {
+      "data": "Data Indefinida",
+      "horario": "Horário Indefinido",
+      "local": "Morumbi",
+      "campeonato": "Brasileirão"
+    }
+  }
